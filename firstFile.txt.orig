@@ -1,4 +1,7 @@
 First File
 Content added.
+<<<<<<< HEAD
 added from Master branch.
+=======
 Code added from develop branch.
+>>>>>>> develop
